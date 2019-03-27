@@ -1,0 +1,16 @@
+{
+    "name": "benjamin154/primer_paquete",
+    "description": "Hola mundo en composer",
+    "authors": [
+        {
+            "name": "Benjamin Santos",
+            "email": "benjamin940814@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "benjamin154\\hello\\": "src/"
+        }
+    }
+}
